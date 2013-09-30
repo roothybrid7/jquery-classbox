@@ -1,0 +1,4 @@
+jquery-classbox
+===============
+
+jQuery plugin
